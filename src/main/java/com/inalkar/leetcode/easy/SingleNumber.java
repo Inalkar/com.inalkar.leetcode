@@ -1,7 +1,9 @@
-package com.inalkar.leetcode.learn.hashtable;
+package com.inalkar.leetcode.easy;
 
 /**
- *
+ * 136. Single Number
+ * https://leetcode.com/problems/single-number/description/
+ * 
  * @author Svyatoslav Voloshin
  */
 public class SingleNumber {

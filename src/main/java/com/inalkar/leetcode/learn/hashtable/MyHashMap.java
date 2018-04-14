@@ -1,5 +1,9 @@
 package com.inalkar.leetcode.learn.hashtable;
 
+/**
+ *
+ * @author Svyatoslav Voloshin
+ */
 public class MyHashMap {
 
     private int bucketsCount = 1000;

@@ -1,10 +1,12 @@
-package com.inalkar.leetcode.learn.hashtable;
+package com.inalkar.leetcode.easy;
 
 import java.util.Arrays;
 import java.util.HashSet;
 
 /**
- *
+ * 349. Intersection of Two Arrays
+ * https://leetcode.com/problems/intersection-of-two-arrays/description/
+ * 
  * @author Svyatoslav Voloshin
  */
 public class TwoArraysIntersection {

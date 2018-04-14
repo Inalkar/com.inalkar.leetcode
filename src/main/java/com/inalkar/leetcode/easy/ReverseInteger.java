@@ -1,5 +1,11 @@
 package com.inalkar.leetcode.easy;
 
+/**
+ * 7. Reverse Integer
+ * https://leetcode.com/problems/reverse-integer/description/
+ * 
+ * @author Svyatoslav Voloshin
+ */
 public class ReverseInteger {
 
     public static int reverse(int x) {

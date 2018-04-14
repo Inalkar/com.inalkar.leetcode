@@ -1,9 +1,11 @@
-package com.inalkar.leetcode.learn.hashtable;
+package com.inalkar.leetcode.easy;
 
 import java.util.HashSet;
 
 /**
- *
+ * 217. Contains Duplicate
+ * https://leetcode.com/problems/contains-duplicate/description/
+ * 
  * @author Svyatoslav Voloshin
  */
 public class ContainsDuplicate {

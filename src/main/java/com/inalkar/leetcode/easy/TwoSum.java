@@ -2,6 +2,12 @@ package com.inalkar.leetcode.easy;
 
 import java.util.HashMap;
 
+/**
+ * 1. Two Sum
+ * https://leetcode.com/problems/two-sum/description/
+ * 
+ * @author Svyatoslav Voloshin
+ */
 public class TwoSum {
 
     public static int[] twoSum(int[] nums, int target) {
